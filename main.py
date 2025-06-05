@@ -6,5 +6,3 @@ def saludar(nombre):
           
 
 saludar("Ana")
-
-
